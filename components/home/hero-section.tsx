@@ -191,7 +191,7 @@ export function HeroSection() {
             </div>
 
             <div className={`grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 transition-all duration-1000 delay-800 ${mounted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-12'}`}>
-              <CompanyMetric value={12} suffix="+" label="Core Sectors" icon={Building2} />
+              <CompanyMetric value={7} suffix="+" label="Core Sectors" icon={Building2} />
               <CompanyMetric value={99} suffix=".9%" label="Reliability SLA" icon={Users} />
               <CompanyMetric value={150} suffix="+" label="Neural Nodes" icon={Globe} />
               <CompanyMetric value={24} suffix="/7" label="Active Response" icon={Zap} />

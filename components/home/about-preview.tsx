@@ -112,11 +112,12 @@ export function AboutPreview() {
     "Next-Gen AI Integration",
     "Cloud-Native Architecture",
     "Zero-Trust Security",
+    /*
     "User-Centric UX Design",
     "High-Velocity DevOps",
     "Post-Launch Maintenance"
   ]
-
+*/  ]
   return (
     <section className="relative isolate overflow-hidden bg-slate-50 py-24 sm:py-32">
       {/* BACKGROUND ANIMATION ELEMENTS */}
